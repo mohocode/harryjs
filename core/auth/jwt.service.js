@@ -1,0 +1,10 @@
+class JWTService {
+
+    sign(){
+
+    }
+
+    verify(){
+
+    }
+}
